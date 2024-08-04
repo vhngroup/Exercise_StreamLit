@@ -1,4 +1,4 @@
-## App de sorteos ##
+## Ejercicio 1 App de sorteos ##
 ![Ejemplo](https://github.com/vhngroup/Exercise_StreamLit/blob/main/static/example.png)
 
 ## Instrucciones:
