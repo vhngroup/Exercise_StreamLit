@@ -1,5 +1,5 @@
 ## App de sorteos ##
-[Ejemplo](https://github.com/vhngroup/Exercise_StreamLit/blob/main/static/example.png)
+![Ejemplo](https://github.com/vhngroup/Exercise_StreamLit/blob/main/static/example.png)
 
 ## Instrucciones:
 * Se recomienda el uso de virtualenv
