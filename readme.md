@@ -7,6 +7,16 @@ Permite seleccionar el numero de ganadores
 ![Ejemplo](https://github.com/vhngroup/Exercise_StreamLit/blob/main/static/image_graficos.png)
 Uso de tipos graficos para mostrar la informacion de la lista de nombres.
 Ver en la carpeta "Conceptos Basicos"
+
+## Ejercicio 3 Mapas ##
+![Ejemplo](https://github.com/vhngroup/Exercise_StreamLit/blob/main/static/image_Maps.png)
+Uso de streamlit para visualizar y diagramar mapas.
+Ver en la carpeta "Maps_in_Streamlit"
+
+## Ejercicio 4 Removedor de Fondo ##
+![Ejemplo](https://github.com/vhngroup/Exercise_StreamLit/blob/main/static/remove_background.png)
+Uso de streamlit junto a rembg y PIL para remover el fondo de una imagen y poder guardarla sin fondo.
+Ver en la carpeta "Removedor_Fondo"
  
 ## Instrucciones:
 * Se recomienda el uso de virtualenv
