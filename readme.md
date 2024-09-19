@@ -15,6 +15,7 @@ Ver en la carpeta "Maps_in_Streamlit"
 
 ## Ejercicio 4 Removedor de Fondo ##
 ![Ejemplo](https://github.com/vhngroup/Exercise_StreamLit/blob/main/static/remove_background.png)
+
 Uso de streamlit junto a rembg y PIL para remover el fondo de una imagen y poder guardarla sin fondo.
 Ver en la carpeta "Removedor_Fondo"
  
