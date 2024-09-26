@@ -19,6 +19,11 @@ Ver en la carpeta "Maps_in_Streamlit"
 Uso de streamlit junto a rembg y PIL para remover el fondo de una imagen y poder guardarla sin fondo.
 Ver en la carpeta "Removedor_Fondo"
  
+ ## Ejercicio 5 uso de pestañas y graficos ##
+![Ejemplo](https://github.com/vhngroup/Exercise_StreamLit/blob/main/static/Grafico_Pestanas.png)
+
+Usamos Pandas y Plotly junto a manejo de pestañas para cargar y mostrar diferentes tipos de graficos y tablas de datos.
+
 ## Instrucciones:
 * Se recomienda el uso de virtualenv
 * Ejecutar el comando: pip install -r requirements.txt para instalar las dependencias.
